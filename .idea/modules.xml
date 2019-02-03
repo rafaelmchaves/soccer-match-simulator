@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/soccer-match-simulator.iml" filepath="$PROJECT_DIR$/.idea/soccer-match-simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soccer-match-simulator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/soccer-match-simulator_main.iml" group="soccer-match-simulator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/soccer-match-simulator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/soccer-match-simulator_test.iml" group="soccer-match-simulator" />
     </modules>
   </component>
 </project>
